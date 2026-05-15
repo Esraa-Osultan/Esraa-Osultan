@@ -1,4 +1,4 @@
-# Esraa Oth. Sultan
+# Esraa O. Sultan
 
 ### MSc Student in Mathematics & Computer Science  
 ### Computational Complexity Theory · AI Systems · Reasoning Architectures

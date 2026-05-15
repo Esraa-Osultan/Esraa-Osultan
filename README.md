@@ -1,6 +1,6 @@
 # Esraa O. Sultan
 
-### MSc Student in Mathematics & Computer Science  
+### MSc Student in Mathematics & Computer Science - Alexandria University 
 ### Computational Complexity Theory · AI Systems · Reasoning Architectures
 
 Cairo, Egypt

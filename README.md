@@ -1,170 +1,120 @@
-# Hey There! I am Esraa Oth. Sultan
+# Esraa Oth. Sultan
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3fb950&width=750&lines=MSc+Student+in+Mathematics+%26+Computer+Science;Computational+Complexity+Theory+Researcher;Research-Oriented+ML+Engineer;SAT+%2F+CSP+%26+Circuit+Complexity+Enthusiast;Building+Reasoning-Centric+Intelligent+Systems" alt="Typing SVG" />
-  </a>
-</p>
+### MSc Student in Mathematics & Computer Science  
+### Computational Complexity Theory · AI Systems · Reasoning Architectures
 
-### ◆ Academic Profile · Cairo / Alexandria, Egypt
+Cairo, Egypt
 
 ---
 
-#  About Me
+# About Me
 
-I am a research-oriented Machine Learning Engineer with a primary academic focus on **Computational Complexity Theory** and the mathematical foundations of efficient computation.
+I am an MSc student in Mathematics & Computer Science and a Machine Learning Engineer with research interests in Computational Complexity Theory, particularly the structural and algebraic aspects of efficient computation.
 
-My interests revolve around understanding:
+My work primarily focuses on:
 
-- The limits of efficient computation
-- Structural complexity of Boolean functions
-- Circuit lower bounds and proof systems
-- SAT/CSP behavior and hardness phenomena
-- Algebraic and geometric approaches to complexity theory
+- Circuit complexity and lower bounds
+- SAT/CSP behavior and computational hardness
+- Proof complexity and Boolean function structure
+- Algebraic approaches to complexity theory
 
-Alongside my theoretical interests, I explore intelligent systems engineering, particularly reasoning-oriented AI architectures and scalable retrieval systems.
+Alongside my theoretical interests, I build experimental reasoning-oriented AI systems and scalable retrieval architectures.
+
+I am especially interested in the mathematical structure of computation, reasoning, and complexity across both theoretical and intelligent systems.
 
 ---
 
 # 🔬 Research Interests
 
-## Computational Complexity Theory
-- Computational Complexity
+## Complexity Theory
 - Circuit Complexity
 - Circuit Lower Bounds
 - Proof Complexity
-- Hardness of Approximation
+- Boolean Function Complexity
+- Computational Hardness
 - P vs NP
-- Complexity of Boolean Functions
+
+## Algebraic & Mathematical Complexity
+- Algebraic Complexity Theory
+- Arithmetic Circuits
+- Geometric Complexity Theory (GCT)
 
 ## SAT / CSP & Combinatorics
 - SAT & CSP Problems
 - Random SAT
 - Phase Transitions in CSPs
 - Extremal Combinatorics
-- Constraint Satisfaction Problems
 
-## Advanced Theoretical Topics
-- Algebraic Complexity Theory
-- Geometric Complexity Theory (GCT)
-- Arithmetic Circuits
-- Finite Model Theory
+---
 
-## Mathematical Foundations
+# 📐 Mathematical Foundations
+
 - Discrete Mathematics
 - Theory of Computation
 - Linear Algebra
 - Probability Theory
 - Graph Theory
-- Optimization
 
 ---
 
-# ⚙️ Engineering & Technical Interests
+# ⚙️ Technical Stack
 
-## AI & Intelligent Systems
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge)
+## Machine Learning & Intelligent Systems
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat-square)
 
-## Data & Scientific Computing
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+## Retrieval & Reasoning Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square)
 
-## Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## Scientific Computing & Infrastructure
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 
 ## Programming
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
 
 ---
 
 # 🧪 Current Focus
 
-- Studying computational complexity and proof systems
-- Exploring SAT/CSP hardness landscapes
-- Building experimental reasoning-oriented AI systems
-- Designing scalable retrieval pipelines
-- Investigating structure and complexity in Boolean computation
-
----
-
-# 📚 Research Directions
-
-```python
-class ResearchDirections:
-
-    foundations = [
-        "Discrete Mathematics",
-        "Theory of Computation",
-        "Linear Algebra",
-        "Probability Theory",
-        "Graph Theory"
-    ]
-
-    computational_complexity = [
-        "Computational Complexity Theory",
-        "Circuit Complexity",
-        "Circuit Lower Bounds",
-        "Proof Complexity",
-        "Hardness of Approximation",
-        "P vs NP"
-    ]
-
-    np_related_research = [
-        "SAT & CSP",
-        "Random SAT",
-        "Phase Transitions in CSPs",
-        "Extremal Combinatorics",
-        "Complexity of Boolean Functions"
-    ]
-
-    advanced_topics = [
-        "Algebraic Complexity Theory",
-        "Geometric Complexity Theory",
-        "Arithmetic Circuits",
-        "Finite Model Theory"
-    ]
-
-    goal = (
-        "Understanding the mathematical limits "
-        "of efficient computation."
-    )
-```
+- Computational hardness and proof systems
+- SAT/CSP phase-transition phenomena
+- Algebraic perspectives on complexity
+- Reasoning-centric AI workflows
+- Scalable retrieval systems
 
 ---
 
 # 🧩 Research Notes & Experimental Work
 
-> Ongoing repositories, reading notes, and experimental projects will be continuously added here.
+This profile will gradually include:
 
-Planned areas include:
-
-- SAT / CSP experimental frameworks
-- Circuit complexity explorations
-- Complexity-theoretic research notes
+- Complexity-theoretic reading notes
+- SAT/CSP experimental frameworks
+- Boolean function explorations
 - Proof-system visualizations
-- Retrieval & reasoning architectures
-- LLM reasoning workflow experiments
+- Retrieval and reasoning architectures
+- Experimental AI system prototypes
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Connect
 
-- LinkedIn: [in/esraa-sultan](https://linkedin.com/in/esraa-sultan)
-- GitHub: [@Esraa-Osultan](https://github.com/Esraa-Osultan)
+- LinkedIn: [linkedin.com/in/esraa-sultan](https://linkedin.com/in/esraa-sultan)
+- GitHub: [github.com/Esraa-Osultan](https://github.com/Esraa-Osultan)
 
 ---
 
 <p align="center">
   <i>
-    Exploring the mathematical limits of computation while building reasoning-centric intelligent systems.
+    Exploring the mathematical structure of computation and reasoning systems.
   </i>
 </p>

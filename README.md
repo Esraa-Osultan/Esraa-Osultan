@@ -1,120 +1,115 @@
 # Esraa O. Sultan
 
-### MSc Student in Mathematics & Computer Science - Alexandria University 
-### Computational Complexity Theory · AI Systems · Reasoning Architectures
+### M.Sc. Student in Mathematics & Computer Science — Alexandria University
 
-Cairo, Egypt
+**Machine Learning Engineer · AI Systems · Computer Vision · LLMs · Computational Complexity Theory**
 
----
-
-# About Me
-
-I am an MSc student in Mathematics & Computer Science and a Machine Learning Engineer with research interests in Computational Complexity Theory, particularly the structural and algebraic aspects of efficient computation.
-
-My work primarily focuses on:
-
-- Circuit complexity and lower bounds
-- SAT/CSP behavior and computational hardness
-- Proof complexity and Boolean function structure
-- Algebraic approaches to complexity theory
-
-Alongside my theoretical interests, I build experimental reasoning-oriented AI systems and scalable retrieval architectures.
-
-I am especially interested in the mathematical structure of computation, reasoning, and complexity across both theoretical and intelligent systems.
+📍 Giza, Egypt
 
 ---
 
-# 🔬 Research Interests
+## About Me
 
-## Complexity Theory
-- Circuit Complexity
-- Circuit Lower Bounds
+I am an M.Sc. student in Mathematics & Computer Science with a dual focus on **computational complexity theory** and **production-oriented AI engineering**.
+
+On the theoretical side, I explore circuit complexity, proof complexity, SAT/CSP behavior, and the algebraic foundations of efficient computation. On the practical side, I design and build AI systems that combine **Computer Vision**, **LLMs**, **RAG**, and robust backend engineering to solve real-world problems.
+
+I believe in bridging rigorous mathematical thinking with reliable, maintainable AI systems.
+
+---
+
+## 🔬 Research Interests
+
+### Computational Complexity Theory
+- Circuit Complexity & Lower Bounds
 - Proof Complexity
 - Boolean Function Complexity
-- Computational Hardness
 - P vs NP
 
-## Algebraic & Mathematical Complexity
+### Algebraic & Mathematical Complexity
 - Algebraic Complexity Theory
 - Arithmetic Circuits
 - Geometric Complexity Theory (GCT)
 
-## SAT / CSP & Combinatorics
-- SAT & CSP Problems
-- Random SAT
-- Phase Transitions in CSPs
+### SAT / CSP & Combinatorics
+- SAT & CSP
+- Random SAT & Phase Transitions
 - Extremal Combinatorics
 
 ---
 
-# 📐 Mathematical Foundations
+## ⚙️ Technical Stack
 
-- Discrete Mathematics
-- Theory of Computation
-- Linear Algebra
-- Probability Theory
-- Graph Theory
+### 🤖 AI, ML & Computer Vision
+`Python` `PyTorch` `OpenCV` `YOLOv8` `Scikit-learn` `TensorRT`
 
----
+### 🧠 LLMs & Generative AI
+`LLMs` `RAG` `LangChain` `LangGraph` `FAISS` `Prompt Engineering`
 
-# ⚙️ Technical Stack
+### ⚙️ Backend & APIs
+`FastAPI` `REST APIs` `Swagger/OpenAPI` `JWT` `SQLAlchemy` `SQLite`
 
-## Machine Learning & Intelligent Systems
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat-square)
+### 🚀 Deployment & MLOps
+`Docker` `Docker Compose` `GitHub Actions` `AWS SageMaker` `Linux`
 
-## Retrieval & Reasoning Systems
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square)
+### 🧪 Testing & Engineering
+`Pytest` `Unit Testing` `API Testing` `Benchmarking` `Technical Documentation`
 
-## Scientific Computing & Infrastructure
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+### 💻 Programming & Tools
+`Python` `C++` `Git` `CUDA (Basics)`
 
-## Programming
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
+### 📚 Additional
+`Quantum Computing` `Computational Complexity` `Engineering Mathematics`
 
 ---
 
-# 🧪 Current Focus
+## 🚀 Featured Projects
 
-- Computational hardness and proof systems
-- SAT/CSP phase-transition phenomena
-- Algebraic perspectives on complexity
-- Reasoning-centric AI workflows
-- Scalable retrieval systems
+### [Industrial Vision Inspection Copilot](https://github.com/Esraa-Osultan/Industrial-vision-inspection-copilot)
+Production-grade AI inspection platform combining **YOLOv8**, **LLMs**, **FastAPI**, and **Docker**.
+
+- ✅ Real-time defect detection with simulation fallback
+- ✅ LLM-powered engineering reports
+- ✅ Automatic PDF report generation
+- ✅ Full test coverage with Pytest
+- ✅ Swagger/OpenAPI documentation
+
+### [Enterprise AI Knowledge & Engineering Assistant](https://github.com/Esraa-Osultan/enterprise-ai-platform)
+RAG platform for enterprise document intelligence using **FAISS** and **FastAPI**.
+
+- ✅ Semantic search with source citations
+- ✅ JWT authentication
+- ✅ Dockerized deployment
+- ✅ Complete API documentation
 
 ---
 
-# 🧩 Research Notes & Experimental Work
+## 🔭 Current Focus
 
-This profile will gradually include:
+- Computational Complexity Theory
+- Production AI Engineering
+- Computer Vision Systems
+- LLM & RAG Applications
 
-- Complexity-theoretic reading notes
+---
+
+## 📚 Research Notes & Experiments
+
+This space will gradually include:
+- Complexity theory reading notes
 - SAT/CSP experimental frameworks
 - Boolean function explorations
-- Proof-system visualizations
-- Retrieval and reasoning architectures
-- Experimental AI system prototypes
+- AI system prototypes
 
 ---
 
-# 🌍 Connect
+## 🌍 Connect
 
-- LinkedIn: [linkedin.com/in/esraa-sultan](https://linkedin.com/in/esraa-sultan)
-- GitHub: [github.com/Esraa-Osultan](https://github.com/Esraa-Osultan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/esraa-sultan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Esraa-Osultan)
 
 ---
 
 <p align="center">
-  <i>
-    Exploring the mathematical structure of computation and reasoning systems.
-  </i>
+<i>Exploring the mathematical foundations of computation while building practical AI systems.</i>
 </p>

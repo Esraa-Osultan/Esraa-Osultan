@@ -2,7 +2,7 @@
 
 ### M.Sc. Student in Mathematics & Computer Science — Alexandria University
 
-**Machine Learning Engineer · AI Systems · Computer Vision · LLMs · Computational Complexity Theory**
+**Machine Learning Engineer · AI Systems · LLMs · Computational Complexity Theory**
 
 📍 Giza, Egypt
 
@@ -88,7 +88,6 @@ RAG platform for enterprise document intelligence using **FAISS** and **FastAPI*
 
 - Computational Complexity Theory
 - Production AI Engineering
-- Computer Vision Systems
 - LLM & RAG Applications
 
 ---

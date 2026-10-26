@@ -24,7 +24,6 @@ I believe in bridging rigorous mathematical thinking with reliable, maintainable
 - Circuit Complexity & Lower Bounds
 - Proof Complexity
 - Boolean Function Complexity
-- P vs NP
 
 ### Algebraic & Mathematical Complexity
 - Algebraic Complexity Theory
@@ -34,9 +33,6 @@ I believe in bridging rigorous mathematical thinking with reliable, maintainable
 ### SAT / CSP & Combinatorics
 - SAT & CSP
 - Random SAT & Phase Transitions
-- Extremal Combinatorics
-
----
 
 ## ⚙️ Technical Stack
 
